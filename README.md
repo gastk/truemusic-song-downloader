@@ -3,3 +3,4 @@ A python script I created to make creating a new True Music mod even easier!
 
 True Music is a mod for Project Zomboid, which adds real life songs to the game.
 
+I'm still editing this readme to make it look nicer and have a tutorial on how to use it.
